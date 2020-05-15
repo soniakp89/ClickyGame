@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "name": "Hermione",
+      "image": "myapp/public/Assets/Images/hermoine.jpeg",
+      "occupation": "Student",
+      "location": "Hogwarts"
+    },
+    {
+      "id": 2,
+      "name": "Lupin",
+      "image": "myapp/public/Assets/Images/lupin.jpeg",
+      "occupation": "Professor",
+      "location": "Hogwarts"
+    },
+    {
+      "id": 3,
+      "name": "Bellatrix",
+      "image": "myapp/public/Assets/Images/bellatrix.jpeg",
+      "occupation": "Villian",
+      "location": "Unknown"
+    },
+    {
+      "id": 4,
+      "name": "Harry Potter",
+      "image": "myapp/public/Assets/Images/harry.jpeg",
+      "occupation": "Student",
+      "location": "Hogwarts"
+    },
+    {
+      "id": 5,
+      "name": "Neville",
+      "image": "myapp/public/Assets/Images/neville.jpeg",
+      "occupation": "Student",
+      "location": "Hogwarts"
+    },
+    {
+      "id": 6,
+      "name": "Slughorn",
+      "image": "myapp/public/Assets/Images/slughorn.jpeg",
+      "occupation": "Professor",
+      "location": "Hogwarts"
+    },
+    {
+      "id": 7,
+      "name": "Malfoy",
+      "image": "myapp/public/Assets/Images/malfoy.jpeg",
+      "occupation": "Student",
+      "location": "Hogwarts"
+    },
+    {
+      "id": 8,
+      "name": "Madeye",
+      "image": "myapp/public/Assets/Images/madeye.jpeg",
+      "occupation": "Professor",
+      "location": "Deceased"
+    },
+    {
+      "id": 9,
+      "name": "Dobby",
+      "image": "myapp/public/Assets/Images/dobby.jpeg",
+      "occupation": "Former Slave",
+      "location": "Died a free Elf"
+    }
+    
+  ]
